@@ -43,11 +43,19 @@ This downloads `Lund.tif` (a 3D microscopy volume) from Zenodo to the `data/` fo
 
 ### Open the workshop notebook
 
+#### Cellpose
+
 ```bash
 pixi run jupyter notebook notebooks/cellpose_napari_3d.ipynb
 ```
 
-Or open it in VS Code with the Jupyter extension.
+#### Stardist
+
+```bash
+pixi run jupyter notebook notebooks/stardist_napari_3d.ipynb
+```
+
+Or open them in VS Code with the Jupyter extension.
 
 ## Workshop Content
 
