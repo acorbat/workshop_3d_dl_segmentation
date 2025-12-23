@@ -75,6 +75,7 @@ After completing the notebooks, explore additional segmentation models on **[Bio
    - View example segmentations and 3D visualizations
    - Download the model for use in your own projects
    - Test the model interactively if available
+   - This [notebook](https://github.com/bioimage-io/core-bioimage-io-python/blob/main/example/model_usage.ipynb) can help you download a model from BioImage and run it for yourself. 
 
 PlantSeg is an excellent example of how specialized deep learning models can be developed and shared for specific biological imaging applications. Explore how it compares to the general-purpose Cellpose and StarDist models you've used in this workshop.
 
