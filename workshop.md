@@ -11,6 +11,8 @@ Before starting, ensure you have:
 
 ## Working Through the Notebooks
 
+Go to the workshop folder `workshop_3d_dl_segmentation` and open a terminal there (or use `cd` to get there).
+
 ### Cellpose 3D Segmentation
 
 **Overview**: This notebook demonstrates how to use Cellpose for 3D cell segmentation with Napari visualization.
