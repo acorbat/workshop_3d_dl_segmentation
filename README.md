@@ -57,6 +57,13 @@ pixi run jupyter notebook notebooks/stardist_napari_3d.ipynb
 
 Or open them in VS Code with the Jupyter extension.
 
+## Workshop Guide
+
+For a detailed walkthrough of the notebooks and additional learning resources, see the [**workshop.md**](workshop.md) file. It includes:
+- Step-by-step instructions for each notebook
+- Learning objectives
+- Tips for success
+- Information about testing additional models on BioImage.io
 
 ## Environment Details
 
