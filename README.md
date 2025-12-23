@@ -66,4 +66,4 @@ Or open them in VS Code with the Jupyter extension.
 
 ## License
 
-Workshop materials provided for educational purposes.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
